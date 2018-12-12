@@ -23,8 +23,6 @@ public class Account {
 		else {
 			system.err.println("Transaction cancelled due to insufficient funds")
 		}
-		
-		balance = balance - amount 
 
 	}
 
